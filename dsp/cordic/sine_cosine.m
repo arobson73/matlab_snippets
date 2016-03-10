@@ -24,5 +24,6 @@ for i= 1:N-1
     end 
     
 end
+%returned values
 c = x(N);
 s = y(N);
